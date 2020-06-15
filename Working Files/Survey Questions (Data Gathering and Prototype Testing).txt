@@ -1,0 +1,36 @@
+
+Data Gathering
+1. Do you support the idea of a circular economy?
+2. Given your answer to the question above, why?
+3. As an individual or household, how are you engaged in a circular economy? Please briefly describe, providing examples if any.
+4. As an individual or household, would you like to do more to support a circular economy? How would you do this and is there anything getting in the way of it?
+5. Considering any organisation you work for or own, can you identify if your organisation makes an effort to support a circular economy? Please briefly describe, providing examples if any.
+6. What do you think your organisation could do to better support a circular economy?
+7. Is your city supportive of a circular economy? Please briefly describe, providing examples if any.
+8. What do you think your city could do to better support a circular economy?
+9. If you have any, could you please tell us your favourite story or experience relating to a circular economy? (for example: a purchase you made, a brand campaign you admired, or something which mad...
+10. Please tell us a bit about yourself in respect to your answers above. For example, the city you live in, the size of your household, your age, or the sector you work in. You do not need to provide any identifying information
+
+Prototype Testing
+1. Would you use the recycling drop-off for no reward?
+2. Would you use the recycling drop-off for a discount?
+2a. What would you like to use the discount for?
+3. Would you use the recycling drop-off for a cash reward?
+3a. How little is too little and how much is too much?
+4. If you have a single use item, how long would you travel to collect the reward?
+4a. within 3 minutes?
+4b. within 5 minutes?
+4c. within 10 minutes?
+5. If you have a bulky item or a larger number of items, how far would you travel to collect the reward?
+5a. within 1 mile?
+5b. within 5 miles?
+5c. within 10 miles?"
+6. Imagine you are at the drop-off point, in order to get the reward, would you be willing to: (check for yes)
+6a. Will you do this each time?
+7. Would you be willing to automatically share: (check for yes)
+7a. take a photo of the object?
+7b. scan the barcode of the object? (if it has one)
+7c. record the material of the item from a list?
+7d. describe the item?
+7e. provide the weight of the item (estimating, or if there is a scale at the drop off point)
+8. Any suggestions, feedback?
