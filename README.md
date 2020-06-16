@@ -16,6 +16,6 @@ Coach: David Caygill
 
 With special thanks to The Data Lab, Design Thinkers Academy and Glasgow Chamber of Commerce
 
-![Challenge](/Criteria/IW2020 Challenge.png)
-![Criteria](/Criteria/IW2020 Criteria.png)
-![Criteria](/Working Files/Project Story.png)
+![Challenge](Criteria/IW2020 Challenge.png)
+![Criteria](Criteria/IW2020 Criteria.png)
+![Criteria](Working Files/Project Story.png)
