@@ -1,5 +1,5 @@
-# InnovationWeek2020
-A repo showcasing the work of RGU Team 2 for The Data Lab Innovation Week 2020 Challenge
+# Innovation Week 2020
+Showcasing the work of RGU Team 2 for The Data Lab Innovation Week 2020 Challenge
 
 #### Project: Upcycle Glasgow (Value in Waste)
 A project for the Data Lab Innovation Week 2020
